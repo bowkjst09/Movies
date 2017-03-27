@@ -1,0 +1,25 @@
+#ajax{
+  background-image:url(images/pic.jpg);
+}
+
+#header_bg{
+  color: Blue;
+}
+#header_details{
+  color: Blue;
+}
+#detail{
+  color: Black;
+  background-image:url(images/pic.jpg);
+}
+/*** home **/
+
+#branding{
+background:url(images/icon.png) no-repeat;
+width:260px;
+height:260px;
+text-indent:-999px;
+font-size:0px;
+margin:-10px auto 0 auto;
+border-bottom:1px solid rgba(65, 38, 37, 0.6);
+}
